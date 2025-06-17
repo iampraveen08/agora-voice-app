@@ -3,7 +3,7 @@ import AgoraRTC from "agora-rtc-sdk-ng";
 // Replace with your Agora App ID and temporary token
 const appId = "ba7ffa9c13fd47e5ae15d0c0d80ae9d5";
 const channel = "test"; // Name of your channel
-const token = '007eJxTYNi9xt7k9K4LvpYrHtvt3VeU432p0IWvoWhv3uu5K4T3vn6rwJCUaJ6WlmiZbGiclmJinmqamGpommKQbJBiYZCYapliOtcqIKMhkJHB5N5hRkYGCATxWRhKUotLGBgAGsQiaw=='
+const token = '007eJxTYDirp17NEu186MSLvNjCFxsCxAxXnBF+3XGMiUNgb8j8yl0KDEmJ5mlpiZbJhsZpKSbmqaaJqYamKQbJBikWBomplimm2VsCMxoCGRn03omxMjJAIIjPwlCSWlzCwAAAMm0fQg=='
 const uid = null;
 
 let client;
