@@ -1,19 +1,15 @@
 {
-    "name": "agora_voice_app",
-    "version": "1.0.0",
-    "type": "module",
-    "scripts": {
-        "dev": "vite",
-        "build": "vite build",
-        "preview": "vite preview"
-    },
-    "dependencies": {
-        "agora-rtc-sdk-ng": "^4.17.2",
-        "vite": "^6.3.5"
-    },
-    "main": "vite.config.js",
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "description": ""
+  "name": "agora_voice_app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "agora-rtc-sdk-ng": "^latest"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
 }
